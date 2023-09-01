@@ -6,10 +6,4 @@
         <Nullable>disable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\Extensions\Extensions.csproj" />
-      <ProjectReference Include="..\ownMineDatabase\ownMineDatabase.csproj" />
-    </ItemGroup>
-
-
 </Project>

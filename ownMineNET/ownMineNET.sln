@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ownMineController", "ownMin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ownMineDatabase", "ownMineDatabase\ownMineDatabase.csproj", "{C8666957-E59D-4BD8-950C-3C6C2F38591A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{BA89081C-B0CF-4589-A845-213A9D2AE179}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C8666957-E59D-4BD8-950C-3C6C2F38591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8666957-E59D-4BD8-950C-3C6C2F38591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8666957-E59D-4BD8-950C-3C6C2F38591A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA89081C-B0CF-4589-A845-213A9D2AE179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA89081C-B0CF-4589-A845-213A9D2AE179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA89081C-B0CF-4589-A845-213A9D2AE179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA89081C-B0CF-4589-A845-213A9D2AE179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
